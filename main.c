@@ -9,7 +9,7 @@
 #include "stm32f10x.h"
 #include "OSQMem.h"	
 
-extern u8 OSUSART1MemQ[OS_MEM_USART1_MAX];  			//¿Õ°×ÄÚ´æ¿é
+extern u8 OSUSART1MemQ[OS_MEM_USART1_MAX];  			//¿Õ°×ÄÚ´æ¿é   
 
 OSMEMTcb* OSQUSART1Index;
 
